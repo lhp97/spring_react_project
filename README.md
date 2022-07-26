@@ -11,7 +11,22 @@ A aplicação consistem em um relatório de vendas realizadas por cada vendedor,
 ## Layout Web
 ![Web_1](https://github.com/lhp97/assets/blob/master/sales-devsuperior-assets/sales_home.png) ![Web_1](https://github.com/lhp97/assets/blob/master/sales-devsuperior-assets/sales_list.png)
  
+# Tecnologias Utilizadas
+## Back end
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
+- Twilio
 
+## Front end
+- HTML / CSS / JS
+- React JS
+
+## Implantação em Produção
+- Back end: Heroku
+- Front end: Netlify
+- Banco de dados: H2
 
 
 
