@@ -28,5 +28,8 @@ A aplicação consistem em um relatório de vendas realizadas por cada vendedor,
 - Front end: Netlify
 - Banco de dados: H2
 
+# Autor
+Luis Henrique do Prado
+(https://www.linkedin.com/in/luis-henrique-do-prado-364389123/)
 
 
