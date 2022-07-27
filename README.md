@@ -20,7 +20,7 @@ A aplicação consiste em um relatório de vendas realizadas por cada vendedor, 
 - Twilio
 
 ## Front end
-- HTML / CSS / JS
+- HTML / CSS / JS / Typescript
 - React JS
 
 ## Implantação em Produção
